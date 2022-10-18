@@ -1,0 +1,5 @@
+META-INF/panache-archive.marker
+dev/ifrs/entity/Message.class
+dev/ifrs/services/MessageService.class
+dev/ifrs/services/UserService.class
+dev/ifrs/entity/User.class
